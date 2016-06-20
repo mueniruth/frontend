@@ -1,0 +1,27 @@
+body {
+	margin:0 auto;
+	padding:10px;
+	width:60%;
+}
+
+.container{
+	height:300px;
+	width:800px;
+	border: solid; 
+}
+
+.container2{
+	background-image: url(../image/catet.jpg);
+	height: 300px;
+	width:800px;
+	text-align:center;
+	text-indent: auto;
+	opacity: 0.9;
+	border:solid;
+
+}
+.container3 image {
+	padding: -right:30px;
+	height: 300px;
+	width:800;
+}

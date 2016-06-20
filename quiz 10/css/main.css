@@ -1,0 +1,332 @@
+body{
+	background-color: #000;
+	font-family: arial sans-serif;
+
+
+}
+.kite{
+	background-color:#fff;
+	width: 640px;
+	height: 690px;
+	margin: 0 auto;
+	padding: 20px;
+	}
+.whole{
+	background-color: #f5f5f5;
+	width: 600px;
+	height:650px;
+	margin: 0 auto;
+	padding: 20px;
+	border-top: 4px solid;
+	color-top: #0000;
+	
+}
+.buto{
+	float: right;
+	position: relative;
+	top: -60px;
+	margin-right: 80px;
+}
+ 
+
+.button {
+  background-color: #000;
+  color:white;
+  float: right;
+  position:relative;
+  border: none;
+  padding: 3px;
+
+}
+.email{
+	float: right;
+	color: red;
+	text-decoration: underline;
+	font-size: 10px;
+	
+}
+.digitiz{
+	float: right;
+	font-size: 15px;
+	
+}
+.pass{
+	border-top: 2px solid;
+    margin: 0 auto;
+    color:rgba(0,0,0,0.1);
+
+}
+h1{
+	text-align: left;
+	font-style: italic;
+	color: #696969;
+	font-size: 15px;
+	margin-left: 50px;
+	color:#5f5f5f;
+	position: relative;
+	top: 10px;
+
+
+}
+p{
+	
+	margin-left:140px;
+	position: relative;
+	top:-25px;
+    color: #696969;
+	font-size: 15px;
+	
+}
+.pas{
+	border-top: 2px solid;
+    margin: 0 auto;
+    color:rgba(0,0,0,0.1);
+
+}
+h2{
+    text-align: left;
+	font-style: italic;
+	color: #696969;
+	font-size: 15px;
+	margin-left: 50px;
+	color:#5f5f5f;
+	position: relative;
+	top: 10px;
+}
+h3{
+	text-align: right;
+	font-size: 15px;
+	margin-right:385px;
+	position: relative;
+	top: -23px;
+	font-style: italic;
+	color:#696969
+}
+.container1{
+	position:relative;
+	top: -30px;
+	font-size: 10px;
+	color:#696969;
+	margin-left: 140px;
+}
+h4{
+	text-align: right;
+	font-size: 15px;
+	position: relative;
+	top: -120px;
+	font-style: italic;
+	color:#696969;
+	margin-right: 230px;
+
+}
+.container2{
+   position:relative;
+	top: -132px;
+	font-size: 10px;
+	margin-left:265;
+	color:#696969; 
+}
+
+h5{
+	text-align: right;
+	font-size: 15px;
+	color: #696969;
+	font-style: italic;
+	margin-right: 75px;
+	position:relative;
+	top: -226px;
+
+}
+.container3{
+	margin-left: 420px;
+	position: relative;
+	top: -245px;
+	font-size: 10px;
+	color: #696969;
+}
+.pa{
+	border-top: 2px solid;
+    margin: 0 auto;
+    color:rgba(0,0,0,0.1);
+    position: relative;
+    top: -230px;
+
+}
+.teck{
+	text-align: left;
+	font-style: italic;
+	color: #696969;
+	font-size: 15px;
+	margin-left: -100px;
+	position: relative;
+	top: -200px;
+}
+.pc{
+	position: relative;
+	top:-228px;
+	left: 10px;
+	font-size: 5px;
+}
+.may{
+	position: relative;
+	top: -260px;
+	left: 140px;
+	font-size: 5px;
+	color: #696969;
+
+
+}
+.pat{
+	position: relative;
+	top: -290px;
+	left: 300px;
+	font-size: 5px;
+	color: #696969;
+	font-style: italic;
+	font-weight: bold;
+
+
+}
+.pet{
+	border-bottom: 2px solid;
+    position: relative;
+    top: -330px;
+    right: -150px;
+    color: #696969;
+    width: 420px;
+    color:rgba(0,0,0,0.1);
+}
+.css{
+	position: relative;
+	top: -320px;
+	left: 10px;
+	color: #696969;
+}
+.php{
+	position: relative;
+	top: -353px;
+	left: 140px;
+	color: #696969;
+}
+.window{
+    position: relative;
+	top: -385px;
+	left: 300px;
+	font-size: 5px;
+	color: #696969;	
+}
+
+.pretty{ 
+border-top: 2px solid;
+color: rgba(0,0,0,0.1);
+margin: 0 auto;
+position: relative;
+top:-425px;
+width: 420px;
+right: -60px;
+
+}
+.java{
+	position: relative;
+	top: -415px;
+	left: 10px;
+}
+.cys{
+  position: relative;
+  top: -445px;
+  left: 120px;
+  font-size: 10px;	
+}
+.lin{
+	position: relative;
+	top: -478px;
+	left: 300px;
+
+}
+.cute{
+	border-top:2px solid;
+	color: rgba(0,0,0,0.1);
+	position: relative;
+	top: -505px;
+}
+.expec{
+	position: relative;
+	top: -490px;
+	left: -102px;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+.face{
+	position: relative;
+	top: -553;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.senior{
+	position: relative;
+	top: -600;
+	font-style: italic;
+	font-weight: bold;
+}
+.pple{
+	position: relative;
+	top: -680px;
+	right:-370px;
+	font-weight: bold;
+	font-style: italic;
+}
+.lorem{
+	position: relative;
+	top: -710px;
+	font-size: 5px;
+	font-style: inherit;
+
+}
+.pit{
+	border-top: 2px solid;
+	color: red;
+	position: relative;
+	top: -720px;
+	width: 460px;
+	color: rgba(0,0,0,0.1);
+	right:-140px;
+}
+.apple{
+	position: relative;
+	top: -700px;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+
+
+}
+.dat{
+	margin-top: -13px;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.cue{
+  margin-left: 500px;
+  top:-75px;
+
+}
+.net{
+	margin-top :-40px;
+	color: #696969;
+	font-size: 13px;
+	font-style: inherit;
+}
+
+ 
+
+
+  
+
+
+
+

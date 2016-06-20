@@ -1,0 +1,66 @@
+
+div{
+	background :cyan;
+	margin: 0 auto; 
+	width: 780px;
+	height:1000px; 
+
+}
+
+.pat1{
+	background-color: blue;
+	width: 247px;
+	height:200px;
+	float: left;
+	margin:5px;
+	margin-left: 5px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+.pat2{
+	background-color: yellow;
+	width: 247px;
+	height:200px;
+	float: left;
+	margin:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+	}
+	.pat3{
+	background-color: black;
+	width: 247px;
+	height: 200px;
+	float: left;
+	margin:5px;
+	margin-bottom:5px;
+	margin-top:5px;
+	}
+	.pat4{
+		background-color:purple;
+		width: 760px;
+		height: 200px;
+		margin-left: 5px;
+		margin-right :5px;
+		margin-bottom:5px;
+		margin-top:5px;
+      
+	}
+	.pat5{
+		background-color: orange;
+		width: 375px;
+		height: 200px;
+		float: left;
+		margin-right: 5px;
+		margin-left: 5px;
+		
+       }
+    .pat6{
+    	background-color: green;
+		width: 375px;
+		height: 200px;
+		float: left;
+		margin-right:5px;
+		margin-left: 5px;
+	    
+		} 
+

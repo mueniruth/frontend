@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>test</title>
+<link rel ="stylesheet" href ="css/main.css">
+
+<a href="pages/index.html">HOME<a/>
+
+<a href= "pages/GALLERY.html">my gallery</a>
+s
+<a href="pages/CONTACT.html">contacts</a>
+
+</head>
+
+<body>
+<h1>caves</h1>
+<p>
+The formation and development of caves is known as speleogenesis. Caves are formed by various geologic processes and can be variable sizes. These may involve a combination of chemical processes, erosion from water, tectonic forces, microorganisms, pressure, and atmospheric influences.
+
+It is estimated that the maximum depth of a cave cannot be more than 3,000 metres (9,800 ft) due to the pressure of overlying rocks.[3] For karst caves the maximum depth is determined on the basis of the lower limit of karst forming processes, coinciding with the base of the soluble carbonate rocks.
+
+Most caves are formed in limestone by dissolution.[5]	
+
+
+
+</body>
+</html>

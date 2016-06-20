@@ -1,0 +1,110 @@
+body{
+  background-color: #696969;
+  font-family: arial;
+  margin: 0 auto;
+ 
+}
+.container1{
+  max-width: 800px;
+  margin: 0 auto;
+  background-color:#000;
+  height: 690px;
+}
+.panel1{
+  width:96%;
+  height:150px;
+  background-color: #5d8aa8;
+  margin-right:25px;
+  margin-left: 15px;
+
+
+}
+.panel2{
+  width: 30%;
+  height: 150px;
+  background-color: #9966cc;
+  margin-left: 15px;
+  margin-right:17px;
+  float: left; 
+  
+  
+
+ }
+ .panel3{
+  width: 30%;
+  height: 150px;
+  background-color: #fff;
+  float:left;
+  margin-left: 7px;
+  margin-right:15px;
+
+
+ }
+ .panel4{
+   width: 30%;
+  height: 150px;
+  background-color: #ff033e;
+  float:left;
+  margin-left: 7px;
+  margin-right:15px;
+
+
+ }
+ .panel5{
+   width:96%;
+   height:150px;
+   background-color: #a52a2a;
+   margin-right:25px;
+   margin-left: 15px;
+   margin-top: 18px;
+
+ }
+ .panel6{
+   width: 21%;
+  height: 150px;
+  background-color: #8a2be2;
+  float:left;
+  margin-left: 15px;
+  margin-right:20px;
+
+
+ }
+ .panel7{
+   width: 21%;
+  height: 150px;
+  background-color: #b5a642;
+  float:left;
+  margin-left: 10px;
+  margin-right:20px;
+
+
+ }
+ .panel8{
+   width: 21%;
+  height: 150px;
+  background-color: #ff007f;
+  float:left;
+  margin-left: 10px;
+  margin-right:20px;
+
+ }
+
+.panel9{
+   width: 21%;
+  height: 150px;
+  background-color: #9966cc;
+  float:left;
+  margin-left: 13px;
+  margin-right:20px;
+
+ }
+ @media only screen and (max-width: 500px){
+  body{
+    background-color: #00bfff;
+  }
+
+  .container1{
+    background-color: #fff;
+  }
+ }
+
